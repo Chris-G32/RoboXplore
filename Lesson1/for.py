@@ -1,5 +1,5 @@
 #Make an array
-atr_lab_members=["Chris","Bailey","Mustafa","Derron","Sean"]
+atr_lab_members=["Chris","Bailey","Mustafa","Derron","Sean","Sophie"]
 
 #Go through each element, without knowing where it is in the array
 for member in atr_lab_members:

@@ -19,6 +19,7 @@ def delete_tabs(string):
         if i is not TAB:
             tabless_string+=i
     return tabless_string
+
 #This gets rid of all whitespace
 #Whitespace is any character that serves to space other characters out, so spaces, tabs, enters
 def delete_whitespace(inp):

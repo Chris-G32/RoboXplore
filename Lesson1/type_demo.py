@@ -10,5 +10,5 @@ print(age)
 if isinstance(age,int):
     age+=1
 
-#This is an array, it groups together data
+#This is a list, it groups together data
 scores=[100,95,37,21]
