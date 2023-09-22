@@ -23,12 +23,14 @@ class Calculator:
         num1 = float(input("Enter first number: "))
         num2 = float(input("Enter second number: "))
         return num1, num2  # This returns num1 and num2 together
+    
     @staticmethod
     def summate(numbers):
         return_sum=0
         for i in numbers:
             return_sum+=i
         return return_sum
+    
     def run(self):
         while True:
             # Print the options

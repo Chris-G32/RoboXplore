@@ -13,6 +13,7 @@ def summate(numbers):
     for i in numbers:
         return_sum+=i
     return return_sum
+
 def print_menu():
     print("Options:")
     print(f"\tEnter '{ADD}' for addition")

@@ -12,3 +12,6 @@ if isinstance(age,int):
 
 #This is a list, it groups together data
 scores=[100,95,37,21]
+
+#This is a boolean, it can be True or False
+is_retired=True

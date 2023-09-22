@@ -41,3 +41,5 @@ while True:
         print("Result:", num1/num2)
     else:
         print("Unknown input")
+        
+    input("Enter anything to continue...\n")

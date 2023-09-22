@@ -1,3 +1,4 @@
+
 print("You approach a locked door...")
 print('A man asks from behind "Whats the password?"')
 password=input("You respond with: )
