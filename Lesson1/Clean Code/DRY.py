@@ -10,8 +10,8 @@ width = 10
 area = length * width
 print(area)
 
-length = input('Enter a length:')
-width = input('Enter a width:')
+length = int(input('Enter a length:'))
+width = int(input('Enter a width:'))
 area = length*width
 print(area)
 
@@ -22,6 +22,7 @@ def printArea(length, width):
 
 printArea(10, 20)
 printArea(10, 15)
-length = input('Enter a length:')
-width = input('Enter a width:')
+length = int(input('Enter a length:'))
+width = int(input('Enter a width:'))
 printArea(length, width)    
+
