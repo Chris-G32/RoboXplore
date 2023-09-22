@@ -8,7 +8,7 @@ print(age)
 
 #Check the type
 if isinstance(age,int):
-    age+=1
+    age=age+1
 
 #This is a list, it groups together data
 scores=[100,95,37,21]

@@ -81,3 +81,8 @@ while not game_over:
 
 # Quit Pygame
 pygame.quit()
+
+
+
+
+MY_CONST=3

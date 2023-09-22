@@ -1,4 +1,4 @@
-#Make an array
+#Make a list
 atr_lab_members=["Chris","Bailey","Mustafa","Derron","Sean","Sophie"]
 
 #Go through each element, without knowing where it is in the array

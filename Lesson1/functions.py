@@ -27,7 +27,7 @@ def delete_whitespace(inp):
     inp=delete_tabs(inp)
     return inp
 
-
+#Split into two files
 print(average(1,2))
 
 string="\tAT\tR  L\ta\tb"
